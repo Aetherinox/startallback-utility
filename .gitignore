@@ -4,6 +4,9 @@
 # Add Gitignore
 !.gitignore
 
+# Add Docs
+!/Docs
+
 # Bin
 !/bin
 /bin/Debug/*
