@@ -11,11 +11,14 @@
 !/bin
 /bin/Debug/*
 /bin/Release/*.pdb
+/bin/Release/*.exe
 /bin/Release/*.manifest
 /bin/Release/*.application
 /bin/Release/*.dll
 /bin/Release/*.config
-/bin/Release/app.publish/*
+/bin/Release/app.publish/Application Files
+/bin/Release/app.publish/*application
+/bin/Release/app.publish/*setup.exe
 /bin/Release/.vshistory*
 
 # Allow: Classes
