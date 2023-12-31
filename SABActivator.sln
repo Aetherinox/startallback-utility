@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9f513b82-b75d-412a-a86f-45574f3187d0}") = "SABActivator", "SABActivator.csproj", "{9f513b82-b75d-412a-a86f-45574f3187d0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9f513b82-b75d-412a-a86f-45574f3187d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9f513b82-b75d-412a-a86f-45574f3187d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9f513b82-b75d-412a-a86f-45574f3187d0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9f513b82-b75d-412a-a86f-45574f3187d0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9f513b82-b75d-412a-a86f-45574f3187d0}
+	EndGlobalSection
+EndGlobal

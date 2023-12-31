@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="about_hdr_desc" xml:space="preserve">
+    <value>Educational purposes only. No ads, no music, no bullshit.</value>
+    <comment>F:About &gt;Header Description</comment>
+  </data>
+  <data name="about_lbl_gpg" xml:space="preserve">
+    <value>GPG KeyID</value>
+    <comment>F:About &gt;GPG ID Label</comment>
+  </data>
+  <data name="about_lbl_thumbprint" xml:space="preserve">
+    <value>Digital Signature Thumbprint</value>
+    <comment>F:About &gt;PIV ID Label</comment>
+  </data>
+  <data name="about_lnk_github" xml:space="preserve">
+    <value>Patcher Updates</value>
+    <comment>F:About &gt;Link &gt; Github</comment>
+  </data>
+  <data name="about_lnk_tpb" xml:space="preserve">
+    <value>Releases</value>
+    <comment>F:About &gt;Link &gt; TPB</comment>
+  </data>
+  <data name="btn_locate" xml:space="preserve">
+    <value>&amp;Manually Locate DLL</value>
+  </data>
+  <data name="btn_patch" xml:space="preserve">
+    <value>&amp;Patch</value>
+    <comment>F:Parent &gt; Save Keyfile</comment>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\bell.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\error.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exclamation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\exclamation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="information" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="msgbox_nolocopen_msg" xml:space="preserve">
+    <value>Could not find StartAllBack. It must be installed first before you can run the patcher.</value>
+  </data>
+  <data name="msgbox_nolocopen_title" xml:space="preserve">
+    <value>StartAllBack Not Found</value>
+  </data>
+  <data name="msgbox_nolocpath_msg" xml:space="preserve">
+    <value>Patcher cannot determine where StartAllBack is installed
+Tried looking in {0}.
+
+Ensure that you have installed StartAllBack on your system.</value>
+  </data>
+  <data name="msgbox_nolocpath_title" xml:space="preserve">
+    <value>Cannot Locate StartAllBack</value>
+  </data>
+  <data name="msgbox_patch_compl_msg" xml:space="preserve">
+    <value>StartAllBack has been successfully patched.</value>
+  </data>
+  <data name="msgbox_patch_compl_title" xml:space="preserve">
+    <value>Patch Complete</value>
+  </data>
+  <data name="question" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\question.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sab_128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\sab_128.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sab_logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Materials\sab_logo_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="statusbar_generate" xml:space="preserve">
+    <value>Click PATCH to begin ...</value>
+  </data>
+  <data name="statusbar_patch_complete" xml:space="preserve">
+    <value>Successfully patched StartAllBack</value>
+  </data>
+  <data name="statusbar_sab_not_found" xml:space="preserve">
+    <value>StartAllBack not found</value>
+  </data>
+  <data name="statusbar_taskkill_cmd" xml:space="preserve">
+    <value>Could not restart task explorer.exe</value>
+  </data>
+  <data name="statusbar_taskkill_proc" xml:space="preserve">
+    <value>Could not kill task explorer.exe</value>
+  </data>
+  <data name="statusbar_taskkill_startallback" xml:space="preserve">
+    <value>Could not kill StartAllBackCfg.exe</value>
+  </data>
+  <data name="template_btn_abort" xml:space="preserve">
+    <value>&amp;Abort</value>
+    <comment>Dialog &gt; Button &gt; Abort</comment>
+  </data>
+  <data name="template_btn_cancel" xml:space="preserve">
+    <value>&amp;Cancel</value>
+    <comment>Dialog &gt; Button &gt; Cancel</comment>
+  </data>
+  <data name="template_btn_ignore" xml:space="preserve">
+    <value>&amp;Ignore</value>
+    <comment>Dialog &gt; Button &gt; Ignore</comment>
+  </data>
+  <data name="template_btn_no" xml:space="preserve">
+    <value>&amp;No</value>
+    <comment>Dialog &gt; Button &gt; No</comment>
+  </data>
+  <data name="template_btn_ok" xml:space="preserve">
+    <value>&amp;OK</value>
+    <comment>Dialog &gt; Button &gt; OK</comment>
+  </data>
+  <data name="template_btn_retry" xml:space="preserve">
+    <value>&amp;Retry</value>
+    <comment>Dialog &gt; Button &gt; Retry</comment>
+  </data>
+  <data name="template_btn_yes" xml:space="preserve">
+    <value>&amp;Yes</value>
+    <comment>Dialog &gt; Button &gt; Yes</comment>
+  </data>
+  <data name="txt_intro" xml:space="preserve">
+    <value>Install StartAllBack before running this patch.</value>
+  </data>
+  <data name="txt_intro1" xml:space="preserve">
+    <value>This program will patch and activate StartAllBack. The process Explorer.exe will restart and make your start menu / taskbar briefly disappear. Be aware that when explorer.exe is restarted; any opened File Explorer windows will be closed.</value>
+  </data>
+  <data name="txt_intro2" xml:space="preserve">
+    <value>Press PATCH to begin.</value>
+  </data>
+  <data name="txt_intro3" xml:space="preserve">
+    <value>Press MANUALLY LOCATE if patch cannot automatically locate StartAllBack.</value>
+  </data>
+</root>

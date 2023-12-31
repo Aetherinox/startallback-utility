@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SABActivator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="app_def_name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Aetherinox</Value>
+    </Setting>
+    <Setting Name="app_dev_piv_thumbprint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">70575bdfb02b3f1b45a37431bef9a8c9933a4ace</Value>
+    </Setting>
+    <Setting Name="app_dev_gpg_keyid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CB5C4C30CD0D4028</Value>
+    </Setting>
+    <Setting Name="app_url_github" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://github.com/Aetherinox/startallback-activator</Value>
+    </Setting>
+    <Setting Name="app_url_tpb" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://thepiratebay.org/user/Aetherinox</Value>
+    </Setting>
+    <Setting Name="app_target_dll" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StartAllBackX64.dll</Value>
+    </Setting>
+    <Setting Name="app_target_exe" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StartAllBackCfg.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
