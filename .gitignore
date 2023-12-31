@@ -16,7 +16,7 @@
 /bin/Release/*.application
 /bin/Release/*.dll
 /bin/Release/*.config
-/bin/Release/app.publish/Application Files
+/bin/Release/app.publish/Application Files/*/*manifest
 /bin/Release/app.publish/*application
 /bin/Release/app.publish/*setup.exe
 /bin/Release/.vshistory*
