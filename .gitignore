@@ -4,6 +4,21 @@
 /*
 
 # ----------------------
+# Add Gitignore
+# ----------------------
+!.gitignore
+
+# ----------------------
+# Misc Templates
+# ----------------------
+!LICENSE*
+!Contributing*
+!Funding*
+!.github
+!.gitea
+!.gitlab
+
+# ----------------------
 # Add Manifest
 # ----------------------
 !/manifest
@@ -12,11 +27,6 @@
 # Add Tools
 # ----------------------
 !/Tools
-
-# ----------------------
-# Add Gitignore
-# ----------------------
-!.gitignore
 
 # ----------------------
 # Add Docs
@@ -35,11 +45,25 @@
 /bin/Release/*.application
 /bin/Release/*.dll
 /bin/Release/*exe.config
+
 /bin/Release/app.publish/*
 !/bin/Release/app.publish/
 !/bin/Release/app.publish/*.exe
 /bin/Release/app.publish/setup.exe
 /bin/Release/.vshistory*
+
+/bin/Release/net481/*
+!/bin/Release/net481/
+!/bin/Release/net481/*.exe
+
+/bin/Release/net481/publish/*
+!/bin/Release/net481/publish/
+!/bin/Release/net481/publish/*.exe
+
+/bin/Release/.vshistory*
+
+/MSBuildCode/*
+!/MSBuildCode/
 
 # Allow: Classes
 !/Classes*
