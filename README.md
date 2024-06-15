@@ -25,13 +25,13 @@ Utilized for [StartAllBack v3.x](https://startallback.com/).
 
 <br />
 
-Be aware that there are different programs for different versions of Windows. If you are looking to restore the start menu in Windows 8 & 10, check out [StartIsBack](https://github.com/Aetherinox/startisback-activator).
+Be aware that there are different programs for different versions of Windows. If you are looking to restore the start menu in Windows 8 & 10, check out [StartIsBack](https://github.com/Aetherinox/startisback-utility).
 
 <br />
 
 | Program | Operating System |
 | --- | --- |
-| [StartIsBack](https://github.com/Aetherinox/startisback-activator) | Windows 8, 10 |
+| [StartIsBack](https://github.com/Aetherinox/startisback-utility) | Windows 8, 10 |
 | [StartAllBack](https://github.com/Aetherinox/startallback-utility) | Windows 11 |
 
 <br />
