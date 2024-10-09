@@ -49,13 +49,13 @@ Be aware that there are different programs for different versions of Windows. If
 
 | Program | Operating System |
 | --- | --- |
-| [StartIsBack](https://github.com/Aetherinox/startisback-activator) | Windows 8, 10 |
-| [StartAllBack](https://github.com/Aetherinox/startallback-activator) | Windows 11 |
+| [StartIsBack](https://github.com/Aetherinox/startisback-utility) | Windows 8, 10 |
+| [StartAllBack](https://github.com/Aetherinox/startallback-utility) | Windows 11 |
 
 <br />
 
 This generator has been developed to work on the following versions:
-- StartIsBack v2.x
+- StartAllBack v3.x
 
 <br />
 
