@@ -1,22 +1,8 @@
 # #
 #   @type               github workflow
-#   @desc               manually activated workflow to create issue labels
+#   @desc               cleans up the list of deployments in the environment history
 #   @author             Aetherinox
 #   @url                https://github.com/Aetherinox
-#
-#   This Github action must be activated manually.  This workflow script will do the
-#   following:
-#
-#       - Scan issues / pull requests and make sure they have properly assigned labels:
-#           - `Bug`
-#           - `Feature`
-#           - `Urgent`
-#           - `Roadmap`
-#
-#       - Workflow script will then scan each pr or issue and mark them as `Stale`
-#         if they haven't had any replies in 30 days.
-#
-#       - Workflow will `autoclose` pr or issues which haven't had action in `365 days`.
 # #
 
 name: "⚙️ Deploy › Clean"
