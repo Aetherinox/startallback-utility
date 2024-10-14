@@ -1,11 +1,11 @@
 # #
-#   @parent     : github workflow
-#   @desc       : pull request autoscan
-#                 scans all of the files related to a particular pull request
-#                 if the code in the files being submitted contains code that is forbidden,
-#                 a report is generated and posted as a comment in the PR.
-#   @author     : Aetherinox
-#   @url        : https://github.com/Aetherinox
+#   @type               github workflow
+#   @desc               pull request autoscan
+#                         scans all of the files related to a particular pull request
+#                         if the code in the files being submitted contains code that is forbidden,
+#                         a report is generated and posted as a comment in the PR.
+#   @author             Aetherinox
+#   @url                https://github.com/Aetherinox
 # #
 
 name: "🎫 Issues › Scan"
@@ -122,8 +122,6 @@ jobs:
             actions: read
             issues: write
             pull-requests: read
-        environment:
-            name: Orion
         steps:
 
             # #
