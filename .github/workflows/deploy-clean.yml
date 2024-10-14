@@ -114,6 +114,6 @@ jobs:
                 ⚙️ Deployments › Clean
               uses: strumwolf/delete-deployment-environment@v2
               with:
-                  token: ${{ secrets.ADMINSERV_TOKEN_CL }}
+                  token: ${{ secrets.SELF_TOKEN_CL }}
                   environment: orion
                   onlyRemoveDeployments: true
