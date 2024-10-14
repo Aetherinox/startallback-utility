@@ -19,8 +19,8 @@
 #       - Workflow will `autoclose` pr or issues which haven't had action in `365 days`.
 # #
 
-name: "🎫 Deploy › Clean"
-run-name: "🎫 Deploy › Clean"
+name: "⚙️ Deploy › Clean"
+run-name: "⚙️ Deploy › Clean"
 
 # #
 #   triggers
