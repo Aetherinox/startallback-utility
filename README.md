@@ -80,7 +80,7 @@ Developed under the following conditions:
 
 # Usage
 
-If you wish to simply use the keygen, head over to the [Releases](https://github.com/Aetherinox/startallback-activator/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
+If you wish to simply use the keygen, head over to the [Releases](https://github.com/Aetherinox/startallback-utility/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
 
 - `SABActivator.exe`
 

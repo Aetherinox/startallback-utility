@@ -12,7 +12,7 @@
       <Value Profile="(Default)">CB5C4C30CD0D4028</Value>
     </Setting>
     <Setting Name="app_url_github" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://github.com/Aetherinox/startallback-activator</Value>
+      <Value Profile="(Default)">https://github.com/Aetherinox/startallback-utility</Value>
     </Setting>
     <Setting Name="app_url_tpb" Type="System.String" Scope="Application">
       <Value Profile="(Default)">https://thepiratebay.org/user/Aetherinox</Value>

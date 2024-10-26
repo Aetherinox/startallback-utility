@@ -1,6 +1,6 @@
 ﻿/*
     @app        : StartAllBack Activator
-    @repo       : https://github.com/Aetherinox/startallback-activator
+    @repo       : https://github.com/Aetherinox/startallback-utility
     @author     : Aetherinox
 */
 
